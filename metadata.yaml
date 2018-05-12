@@ -1,0 +1,40 @@
+_repo: Villa-Nova-de-Gaia_26411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaz, João
+    alias: Vaz, Joao
+    gutenberg_agent_id: '31984'
+    url: http://www.gutenberg.org/2009/agents/31984
+  editor:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Braga, Joaquim Teófilo Fernandes
+    - Braga, Theophilo
+    - Braga, Joaquim Theophilo Fernandes
+    - Fernandes Braga, Joaquim Theophilo
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Teófilo_Braga
+    - http://en.wikipedia.org/wiki/Teófilo_Braga
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26411'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romance-language literature -- 16th century -- History and criticism'
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+title: Villa Nova de Gaia
+url: http://www.gutenberg.org/ebooks/26411
